@@ -45,7 +45,7 @@ grep -h CV log*.out > /BeaucMCR50.txt
 ![](Rplot03.jpeg)
 ![](Rplot04.jpeg)
 
-###FastStructure
+### FastStructure
 También se corrio el análisis de `FastStructure`. Al igual que en `admixture` se realizo un **for loop**  para hacer el análisis con diferentes **K**. 
 
 ```:::bash
@@ -78,7 +78,7 @@ python distruct.py -K 4 --input=FStrB --output=distructk4.svg
 ```
 ![](distructk4.svg) 
 
-###Tareas por hacer
+### Tareas por hacer
 * Generar el árbol filogenético. 
 * Arreglar las gráficas de admixture en **R**.
 * Realizar las gráficas de FastStructure en **R**.
