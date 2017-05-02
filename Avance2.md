@@ -2,7 +2,7 @@
 
 **Nota:** En este escrito no se incluyen rutas a  los archivos ni los *scripts* de **R** con los que se generaron las gráficas de *admixture*. 
 
-##*sofwares* utilizados hasta el momento:
+## *sofwares* utilizados hasta el momento:
 ### Para análisis
  - Tassel 
  - Admixture
