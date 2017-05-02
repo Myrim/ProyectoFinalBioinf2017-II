@@ -71,12 +71,12 @@ Al correr el comando `distruct` se obtuvieron las siguientes gráficas prelimina
 ```
 python distruct.py -K 3 --input=FStrB -- output=distructk3.svg
 ```
-![](distructk3.svg)
+![](distructk3.jpg)
 
 ```
 python distruct.py -K 4 --input=FStrB --output=distructk4.svg
 ```
-![](distructk4.svg) 
+![](distructk4.jpg) 
 
 ### Tareas por hacer
 * Generar el árbol filogenético. 
