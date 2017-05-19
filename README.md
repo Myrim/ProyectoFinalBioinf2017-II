@@ -1,4 +1,4 @@
-#README
+# README
 ## Delimitación de especies *Beaucarnea inermis* y *Beaucarnea recurvata*
 Este proyecto pretende aclarar la delimitación de dos de las especies que se han considerado *Beaucarnea recurvata*, utilizando datos de secuenciación masiva (GBS). 
 
